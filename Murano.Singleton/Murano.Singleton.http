@@ -1,0 +1,6 @@
+@Murano.Singleton_HostAddress = http://localhost:5120
+
+GET {{Murano.Singleton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
